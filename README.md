@@ -1,3 +1,3 @@
 # Kokoa-clone-2024
 
-CSS got so much better!
+HTML AND CSS is good to learn!
